@@ -7,7 +7,10 @@ This is the source code for a website featuring the Flappy Bird game, developed 
 ## Authors
 
 - **[Platon](https://github.com/platonche)** - Lead Developer and Concept Creator 💡✨
-- **[Platonche Works Inc. Team](https://github.com/platonche)** - Support and Testing 🚀🔧
+- **[Platonche Works Inc. Team](https://github.com/platonchelink)** - Support and Testing 🚀🔧
+- **[Anonym]()** - Programmer, integrated Flappy Bird into the project 🎨🧩
+- **[Windusik](https://github.com/windusik)** - Project Designer 🖼️🎭
+- **[Mysterious developer](https://example.com)** - Bug fixes 👤🕵️
 
 ## Comments from the Authors
 
@@ -21,14 +24,14 @@ This is the source code for a website featuring the Flappy Bird game, developed 
 
 ## Footer
 
-(C) Platonche Works Inc. - [Sources](https://github.com/platonche) 📦
+(C) Platonche Works Inc. - [Sources](https://github.com/platonchelink) 📦
 
 ## Social Media
 
 - [VK](https://vk.com/tajikik) 🗨️
 - [Instagram](https://instagram.com/mrplatonche) 📸
 - [Twitter](https://x.com/platoncheduck) 🐦
-- [YouTube](https://youtube.com/@mrplatonche) 🎥
+- [YouTube](https://youtube.com/@platonchelink) 🎥
 
 We hope you enjoy our project! 🚀💫
 
@@ -44,6 +47,9 @@ We hope you enjoy our project! 🚀💫
 
 - **[Платон](https://github.com/platonche)** - Главный разработчик и автор идеи 💡✨
 - **[Команда Platonche Works Inc.](https://github.com/platonche)** - Поддержка и тестирование 🚀🔧
+- **[Аноним](https://example.com)** - Программист, встроил в проект игру Flappy Bird 🎨🧩
+- **[Windusik](https://github.com/windusik)** - Дизайнер проекта 🖼️🎭
+- **[Неизвестный разработчик](https://example.com)** - Фикс багов 👤🕵️
 
 ## Комментарии от авторов
 
@@ -57,7 +63,7 @@ We hope you enjoy our project! 🚀💫
 
 ## Футер
 
-(C) Platonche Works Inc. - [Sources](https://github.com/platonche) 📦
+(C) Platonche Works Inc. - [Sources](https://github.com/platonchelink) 📦
 
 ## Социальные сети
 
