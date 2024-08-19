@@ -11,9 +11,9 @@ This is the source code for a website featuring the Flappy Bird game, developed 
 
 ## Comments from the Authors
 
-> _"Programming is like working with LEGO bricks, but without the instructions. Sometimes you just have to guess how to put it all together."_ - Platon 🛠️🔍
+> _"Programming is not just about writing code; it’s about solving puzzles and creating solutions from chaos. Each line of code is a brushstroke in the canvas of technology, a journey where creativity meets logic."_ - Platon 🌌💭
 
-> _"Why does code never get bored? Because it’s always in good condition!"_ 😆🔧
+> _"To code is to dance with uncertainty, crafting order from chaos, and finding beauty in the elegant logic that unfolds before us."_ - Anonym 🎨🔍
 
 ## Coding Joke
 
@@ -47,9 +47,9 @@ We hope you enjoy our project! 🚀💫
 
 ## Комментарии от авторов
 
-> _"Программирование - это как работа с конструктором LEGO, но без инструкции. Иногда нужно просто догадываться, как собрать всё вместе."_ - Платон 🛠️🔍
+> _"Программирование — это не просто написание кода; это решение головоломок и создание решений из хаоса. Каждая строка кода — это мазок кисти на холсте технологий, путешествие, где креативность встречается с логикой."_ - Платон 🌌💭
 
-> _"Почему код никогда не унывает? Потому что он всегда в хорошем состоянии!"_ 😆🔧
+> _"Кодирование — это танец с неопределённостью, создание порядка из хаоса и нахождение красоты в элегантной логике, раскрывающейся перед нами."_ - Anonym 🎨🔍
 
 ## Анекдот про код
 
