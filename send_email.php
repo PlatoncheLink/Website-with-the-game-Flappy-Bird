@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = htmlspecialchars(trim($_POST['email']));
     $message = htmlspecialchars(trim($_POST['message']));
 
-    $to = 'im@platonche.work.gd';
+    $to = 'you@example.com';
     $subject = 'New Message from Website Contact Form';
     $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
     $headers = "From: $email\r\n";
